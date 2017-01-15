@@ -1,0 +1,2 @@
+# WriteBoard
+WriteBoard is an enterprise virtual whiteboard web platform built for bringing simplicity and efficiency to the process of whiteboard collaboration. WriteBoard is deployable as an internal enterprise application and includes GitHub integration. WriteBoards can be created with ease and shared internally during design meetings or strategy planning. WriteBoards can be created and shared seamlessly between teams with unique URLs that only collaborators can access.
